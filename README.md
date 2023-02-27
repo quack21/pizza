@@ -12,4 +12,4 @@
 - Code Splitting, React Loadable, useWhyDidYouUpdate
 
 
-(https://github.com/quack21/pizza/raw/main/1.png)
+![Screenshot 1](https://github.com/quack21/pizza/raw/main/1.png)
