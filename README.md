@@ -10,3 +10,6 @@
 - React Pagination (пагинация)
 - Lodash.Debounce
 - Code Splitting, React Loadable, useWhyDidYouUpdate
+
+
+(https://github.com/quack21/pizza/raw/main/1.png)
